@@ -8,13 +8,12 @@ Compilation
 4) Create a javafx project from with eclipse and set the java environment is set to 1.8
 5) Delete the automatically created source folder.
 6) Alter the build path (Right click on project in Package Explorer, Build Path->Configure Build Path) to "link source.." the to the source ("src") folder contained in the location you cloned our repo (uoa-compsys302-2017-group9). Also add the junit4 library before clicking finish.
-7) Copy across our four sound files (countDownSound, playerDeath, powerUp and wallDeath; contained in root of this repo) to the root of your project. See the image below for an example;
-project_setup.png
+7) Copy across our four sound files (countDownSound, playerDeath, powerUp and wallDeath; contained in root of this repo) to the root of your project.
 
 
 Running The Game
 The game can be run from the /view/GUI.java file.
-Basic controls are explained in the game, however we have included them below for clarity.
+Basic controls are explained in the game, however I have included them below for clarity.
 ENTER - Continue/Select menu option
 P - Pause
 ESC - Pause/Exit
